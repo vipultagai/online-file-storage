@@ -1,0 +1,58 @@
+#login_button{
+              color:white;
+              border:none;
+              height:6vh;
+              background-color:black;
+                        
+              }
+			  
+#logout_button{
+              color:white;
+              border:none;
+              height:6vh;
+              background-color:black;
+                      
+			  
+              }
+
+#homepage{
+    display:none;
+	background-color:blue;
+}
+
+#aboutus{	
+    display:none;
+	background-color:green;
+}
+
+#help{
+    display:none;
+	background-color:yellow;
+}
+
+#contact{
+    display:none;
+	background-color:red;
+}
+
+#login{
+    display:none;
+	background-color:pink;
+	
+}
+
+#storage{
+	
+    display:none;
+	
+}
+
+
+
+
+
+
+
+
+
+
